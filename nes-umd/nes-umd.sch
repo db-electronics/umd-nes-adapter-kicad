@@ -7,6 +7,7 @@ LIBS:db-passives
 LIBS:db-sem
 LIBS:db-transistors
 LIBS:db-vgparts
+LIBS:nes-umd-cache
 EELAYER 25 0
 EELAYER END
 $Descr A 11000 8500
