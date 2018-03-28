@@ -13,3 +13,7 @@ conditions
 
 # NES UMD Adapters
 This KiCad project contains the NES cartridge adapter for the [Universal Mega Dumper](https://github.com/db-electronics/Universal-Mega-Dumper).
+
+## UMD ID
+0x01
+Each UMD adapter has a serial shift register containing an 8bit identification.
